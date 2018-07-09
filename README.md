@@ -1,5 +1,7 @@
-This is the code for the SPICE 2016(http://spice.lif.univ-mrs.fr/) competition, We won 2nd place in the competition.
+This is the code for the [SPICE competition 2016](http://spice.lif.univ-mrs.fr/), We won 2nd place in the competition.
 If you want to use this code, please cite our paper:
+
+```
 @inproceedings{zhao2017sequence,
   title={Sequence Prediction Using Neural Network Classiers},
   author={Zhao, Yanpeng and Chu, Shanbo and Zhou, Yang and Tu, Kewei},
@@ -7,3 +9,5 @@ If you want to use this code, please cite our paper:
   pages={164--169},
   year={2017}
 }
+
+```
